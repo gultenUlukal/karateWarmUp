@@ -10,4 +10,6 @@ https://www.baeldung.com/karate-rest-api-testing
 
 https://cucumber.io/docs/gherkin/reference/ 
 
+https://conduit.bondaracademy.com/
+
 
